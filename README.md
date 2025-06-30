@@ -79,11 +79,13 @@ This task deepened my understanding of tree-based models. I learned:
   ```
 
 2. Install dependencies:
+
   ```bash
   pip install pandas numpy matplotlib seaborn scikit-learn
   ```
 
 3. Open the notebook:
+   
   ```bash
   jupyter notebook tree_based_models.ipynb
   ```
