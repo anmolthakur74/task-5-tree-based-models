@@ -54,7 +54,7 @@ Learn tree-based models for classification & regression.
 
 - Python 3.12  
 - `pandas`, `numpy` — data handling  
-- `matplotlib`,'seaborn' — plotting  
+- `matplotlib`, `seaborn` — plotting  
 - `scikit-learn` — model building and evaluation
 
 ---
