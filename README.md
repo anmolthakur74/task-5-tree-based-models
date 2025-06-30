@@ -21,7 +21,7 @@ Learn tree-based models for classification & regression.
 
 ---
 
-## 📌 What I Did
+## What I Did
 
 1. **Data Exploration**  
    Performed basic EDA using pandas to understand structure, check for null values, and examine the target distribution.
@@ -92,4 +92,4 @@ This task deepened my understanding of tree-based models. I learned:
 
 **Anmol Thakur**
 
-GitHub: [anmolthakur74]()
+GitHub: [anmolthakur74](https://github.com/anmolthakur74)
